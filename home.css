@@ -8,6 +8,10 @@
   padding: 0!important;
 }
 
+#portfolio > .row > div > p{
+    text-align: justify;
+}
+
 .modal:before {
   content: '';
   display: inline-block;
